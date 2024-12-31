@@ -37,11 +37,3 @@ To use the Unit Converter GUI, follow these steps:
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request or submit an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to the tkinter library for providing the GUI framework, and to the Python community for their valuable contributions and support.
